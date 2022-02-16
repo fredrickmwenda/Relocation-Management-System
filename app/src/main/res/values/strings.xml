@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">First</string>
+    <string name="l_o_c_a">L O C A</string>
+    <string name="ready_to_relocate">READY TO RELOCATE?</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="name">Name</string>
+    <string name="phone">Phone</string>>
+    <string name="title_activity_home">Home</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="google_direction_api">AIzaSyBJJ6k_AhybGzbaM4o_m8toPyrA-J-KWi4</string>
+    <string name="register">Register</string>
+    <string name="go">Go</string>
+    <string name="find_user">FIND USER</string>
+    <string name="enter_pickup_location">Enter Pickup Location</string>
+    <string name="title_activity_clients_map">Map</string>
+    <string name="title_activity_client_navigation_drawer">ClientNavigationDrawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+</resources>

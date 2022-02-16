@@ -1,0 +1,86 @@
+{
+  "project_info": {
+    "project_number": "769865037584",
+    "firebase_url": "https://relocationapp-6b58c.firebaseio.com",
+    "project_id": "relocationapp-6b58c",
+    "storage_bucket": "relocationapp-6b58c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769865037584:android:cce195135d2dc357",
+        "android_client_info": {
+          "package_name": "com.company.RelocationApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "769865037584-r8eal90nlq9pa184n2nch9rqer03bquf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_Nzv9PHavEEAFubC60Hb4KI9X80je5Jw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769865037584:android:3731da3bd1868508",
+        "android_client_info": {
+          "package_name": "com.example.lucy.first"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "769865037584-ts22jc1s8mmhguhv1sp8sdln82q44s3q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lucy.first",
+            "certificate_hash": "f8b258866d762a9ff37a92c4cc240c3752eb7e5f"
+          }
+        },
+        {
+          "client_id": "769865037584-r8eal90nlq9pa184n2nch9rqer03bquf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_Nzv9PHavEEAFubC60Hb4KI9X80je5Jw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "769865037584-r8eal90nlq9pa184n2nch9rqer03bquf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
